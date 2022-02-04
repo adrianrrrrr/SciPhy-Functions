@@ -1,3 +1,3 @@
-# SciPhy-Functions
+# Scipy-Functions
 
-Set of usefull Python functions based on Sciphy for Audio Analysis using Anaconda IDE
+Set of usefull Python functions based on scipy library for Audio Analysis using Anaconda IDE
